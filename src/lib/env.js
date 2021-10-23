@@ -1,2 +1,2 @@
-import env from '../../../etc/secrets/.env.json';
+import env from '/etc/secrets/.env.json';
 export const SECRET = env.SECRET;
